@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "🙆 F·Blog",
+    title: "F·Blog 🙆——（FuHeng's Blog）",
     description: "welcome to F·Blog!",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
