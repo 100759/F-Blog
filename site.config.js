@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `FuHeng`,
-      href: "https://github.com/",
+      name: `连接星辰：一份友链的邀约`,
+      href: "/friends",
     },
   ],
   // blog setting (required)
