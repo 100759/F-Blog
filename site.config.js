@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "F-Blog",
-    description: "welcome to F-Blog!",
+    title: "🙆 F·Blog",
+    description: "welcome to F·Blog!",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
 
